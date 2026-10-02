@@ -1,0 +1,13 @@
+{
+  "name": "midbrowse-server",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Desktop backend for the MIDBrowse J2ME browser: fetches modern websites and serves them to the phone in a simplified line protocol.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
